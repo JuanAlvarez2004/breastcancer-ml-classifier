@@ -731,5 +731,3 @@ Score = 0.4 × Sensibilidad + 0.3 × Especificidad + 0.2 × AUC + 0.1 × F1
 El proyecto ha demostrado exitosamente que es posible desarrollar un modelo de machine learning altamente efectivo para la clasificación de cáncer de mama. **Random Forest + LDA** emerge como la solución óptima, logrando un excelente balance entre sensibilidad y especificidad, siendo adecuado para asistencia en el diagnóstico médico.
 
 Con **97.4% de accuracy** y **99.6% de AUC**, el modelo representa una herramienta valiosa para el apoyo clínico, siempre como complemento al criterio médico profesional. La metodología implementada es robusta, reproducible y puede ser adaptada a otros contextos médicos similares.
-
-**🏆 PROYECTO COMPLETADO EXITOSAMENTE** ✅
